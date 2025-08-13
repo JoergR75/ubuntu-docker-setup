@@ -40,4 +40,4 @@ It sets up all required dependencies, installs the official Docker packages, con
 
 2. **Run the script**
    ```bash
-   bash setup_docker_vllm.sh
+   bash docker_install.sh
