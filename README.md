@@ -14,7 +14,7 @@ It sets up all required dependencies, installs the official Docker packages, con
 - AMD GPU with **ROCm 6.4.1** or newer
 
 ### **Installed Software Versions**
-- **Docker Engine:** 28.2.2 ([release notes](https://docs.docker.com/engine/release-notes/))
+- **Docker Engine:** 28.3.3 ([release notes](https://docs.docker.com/engine/release-notes/))
 - **Docker Compose:** Included with Docker Engine
 - **vLLM Docker image:** [`rocm/vllm`](https://hub.docker.com/r/rocm/vllm)
 - **vLLM Version:** `0.9.0.2.dev108+g71faa1880.rocm641`
