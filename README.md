@@ -37,15 +37,7 @@ It sets up all required dependencies, installs the official Docker packages, con
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
    cd <your-repo>
-Make the script executable
 
-bash
-Copy
-Edit
-chmod +x setup_docker_vllm.sh
-Run the script
-
-bash
-Copy
-Edit
-./setup_docker_vllm.sh
+2. **Run the script**
+   ```bash
+   bash setup_docker_vllm.sh
