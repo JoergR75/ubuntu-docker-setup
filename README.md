@@ -1,4 +1,4 @@
-# 🚀 Docker + vLLM Setup Script for Ubuntu (ROCm AMD GPUs)
+# Docker + vLLM Setup Script for Ubuntu (ROCm AMD GPUs)
 
 This repository contains a **bash script** that automates the installation and configuration of **Docker** and **vLLM** for **AMD ROCm-enabled GPUs** on **Ubuntu**.  
 It sets up all required dependencies, installs the official Docker packages, configures permissions for non-root Docker usage, and provides instructions to run the **ROCm vLLM** container.
