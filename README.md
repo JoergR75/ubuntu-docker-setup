@@ -33,11 +33,12 @@ It sets up all required dependencies, installs the official Docker packages, con
 
 ## 🛠 Installation
 
-1. **Clone this repository**
+1. **Download the bash script**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   wget https://raw.githubusercontent.com/JoergR75/ubuntu-docker-setup/refs/heads/main/docker-install.sh
+   ```
 
 2. **Run the script**
    ```bash
-   bash docker_install.sh
+   bash docker-install.sh
+   ```
